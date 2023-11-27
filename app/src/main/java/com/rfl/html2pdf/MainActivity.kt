@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         PDFHelper.apply {
             title= "Due-Invoice"
             orderId ="OJF4638"
-            orderDate ="22/12/1998"
+            orderDate ="27/11/2023"
 
             for (i in 0 ..90){
                 addItem(PDFHelper.Item("f trtiorut tiruetioertuertue reter ert etoper eteoprt t",2,500.0))
